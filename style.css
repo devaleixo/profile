@@ -53,7 +53,7 @@ a:hover{
   align-items: center;
   background-color: rgb(14, 60, 76);
   width: 90%;
-  margin-inline: 25px;
+  margin: auto;
   padding:50px;
   border-radius: 25px;
   border-style: solid;
