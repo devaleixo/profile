@@ -57,6 +57,7 @@ a:hover{
   padding:50px;
   border-radius: 25px;
   border-style: solid;
+  justify-content: space-around;
 }
 .blocks {
   align-items: center;
